@@ -4,7 +4,6 @@ This is a React-based visualization tool for the Sweep Line algorithm that solve
 
 ## Introduction
 
-This project provides a visual representation of the Sweep Line algorithm to solve the Points In Circles problem.
 The tool provides a visual representation of the points that lie inside the generated circles, which are painted in red for easy identification.
 
 ## Usage
