@@ -1,6 +1,6 @@
 # Sweep-Line-Points-In-Circles-Front
 
-This is a React-based visualization tool for the Sweep Line algorithm that solve the Points In Circles problem. The algorithmic implementation used in this project is available in another repository. [Repository](https://github.com/ImanBekkaye/Sweep-Line-Points-In-Circles.git) 
+This is a React-based visualization tool for the Sweep Line algorithm that solve the Points In Circles problem. The algorithmic implementation used in this project is available in another repository. [Sweep-Line-Points-In-Circles](https://github.com/ImanBekkaye/Sweep-Line-Points-In-Circles.git) 
 
 ## Introduction
 
