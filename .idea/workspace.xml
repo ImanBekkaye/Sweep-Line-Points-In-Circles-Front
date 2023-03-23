@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a3639b3-a1fe-4c66-aa1a-f928bc980045" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\imanb\WebstormProjects\front\public" />
       <recent name="C:\Users\imanb\WebstormProjects\front\src" />
     </key>
   </component>
@@ -72,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679590675719</updated>
-      <workItem from="1679590677178" duration="5829000" />
+      <workItem from="1679590677178" duration="7111000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1679593613126</created>
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679600228588</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="axios">
+      <created>1679600531048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679600531048</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,7 @@
     <MESSAGE value="node version added" />
     <MESSAGE value=".idea" />
     <MESSAGE value="canvas" />
-    <option name="LAST_COMMIT_MESSAGE" value="canvas" />
+    <MESSAGE value="axios" />
+    <option name="LAST_COMMIT_MESSAGE" value="axios" />
   </component>
 </project>
