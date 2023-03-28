@@ -18,4 +18,4 @@ This will install all the necessary dependencies. You can then start the develop
 npm start
 
 
-This will start the server and open the app in your default browser. The visualization tool allows you to enter the coordinates of the points and the circles, and see the order in which the circles intersect each other as we sweep a line from left to right.
+This will start the server and open the app in your default browser. The visualization tool allows you to enter number of the points and the circles.
