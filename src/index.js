@@ -1,12 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 import axios from "axios";
 import Main from "./Main";
 
-axios.defaults.baseURL = 'https://sweep-line-points-in-circles.herokuapp.com/'
+axios.defaults.baseURL = 'http://localhost:8000/'
 
 axios.interceptors.request.use(config => {
     config.headers = {
